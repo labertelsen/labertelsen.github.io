@@ -1,0 +1,25 @@
+var app_8py =
+[
+    [ "conversational_chat", "app_8py.html#aa7abe08d2b107d48830673f9dab15999", null ],
+    [ "load_llm", "app_8py.html#a7e9f261a4985494dc6364c17a32d46c7", null ],
+    [ "avatar_style", "app_8py.html#a69ae1b42ca721f3ab55225a6480588c4", null ],
+    [ "chain", "app_8py.html#ac295ae6be6971cee3ade13925cd9d17d", null ],
+    [ "clear_on_submit", "app_8py.html#a7f5534ed5515b1dcde532fab554ce373", null ],
+    [ "container", "app_8py.html#ad7b8ade836a2d68220e2f0794bfcfaba", null ],
+    [ "data", "app_8py.html#aac971a7ce28912f76a3248f427514f9d", null ],
+    [ "db", "app_8py.html#a75341a4bc0e8e239f299316136af3466", null ],
+    [ "DB_FAISS_PATH", "app_8py.html#a70759a48233031db4b8cd720346014de", null ],
+    [ "delete", "app_8py.html#a522388dd3bc85e169f28cdc7060efe50", null ],
+    [ "embeddings", "app_8py.html#a25d2006f59b5c05dec184d0a8978402f", null ],
+    [ "is_user", "app_8py.html#aaac662dd314969c11b3dca776a55ba33", null ],
+    [ "key", "app_8py.html#aa246a585c039aa2310472ad291d05608", null ],
+    [ "llm", "app_8py.html#abb56ae6741b804b665b30995e2e04040", null ],
+    [ "loader", "app_8py.html#a9bb6c65bb9d87b870884806aef04e9df", null ],
+    [ "output", "app_8py.html#a6ba12658405316c0a86918684fbd55f4", null ],
+    [ "response_container", "app_8py.html#a8a0803598a1ae4787b1c026a6d42fe9c", null ],
+    [ "submit_button", "app_8py.html#aa34063347cbac0b8c155a4cf41be2000", null ],
+    [ "tmp_file_path", "app_8py.html#a54c34a21e600632feda75d6602101785", null ],
+    [ "True", "app_8py.html#a4f14203a53500e8593c3e2fec9ace1e8", null ],
+    [ "uploaded_file", "app_8py.html#a961e76fb8ef025010a52b2203a6a9ce7", null ],
+    [ "user_input", "app_8py.html#a26f38246a025839bc59afc1f3a06da6e", null ]
+];
